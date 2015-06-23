@@ -1,4 +1,4 @@
-<?php
+<?php defined( 'ABSPATH' ) or die( 'No script kiddies please!' );
 
 // Register Style
 function mx_rating_styles() {
